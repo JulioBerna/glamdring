@@ -3,3 +3,4 @@ Proyecto 9 del ciclo DAW de UOC. Web de contenido dinámico donde los usuarios p
 Repositorio creado para mis pruebas.
 Gracias a desarrolloweb.com por su curso "Manual de Git"
 Cambio de carpeta el repo local de documentos a proyectos
+En la nueva ruta no reconoce los cambios. Será que no es un clon y no corre Git
